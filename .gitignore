@@ -1,0 +1,10 @@
+/*
+!/cnn_mnist.py
+!/ocr.py
+!/ocr_webcam.py
+!/test.png
+!/.gitignore
+
+!/model/
+/model/*
+!/model/MNIST_model.hdf5
