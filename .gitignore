@@ -3,7 +3,9 @@
 !/ocr.py
 !/ocr_webcam.py
 !/test.png
+!/out.png
 !/.gitignore
+!/README.md
 
 !/model/
 /model/*
