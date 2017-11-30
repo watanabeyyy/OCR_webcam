@@ -1,7 +1,7 @@
 /*
-!/cnn_mnist.py
-!/ocr.py
-!/ocr_webcam.py
+!/ocr_webcam2.py
+!/train_number.py
+!create_dataset.py
 !/test.png
 !/out.png
 !/.gitignore
@@ -9,4 +9,3 @@
 
 !/model/
 /model/*
-!/model/MNIST_model.hdf5
